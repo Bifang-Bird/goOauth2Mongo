@@ -1,9 +1,9 @@
 package mongo
 
 import (
+	"github.com/Bifang-Bird/goOauth2"
+	"github.com/Bifang-Bird/goOauth2/models"
 	"github.com/globalsign/mgo"
-	"gopkg.in/oauth2.v3"
-	"gopkg.in/oauth2.v3/models"
 )
 
 // ClientConfig client configuration parameters

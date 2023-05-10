@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"time"
 
+	"github.com/Bifang-Bird/goOauth2"
+	"github.com/Bifang-Bird/goOauth2/models"
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
 	"github.com/globalsign/mgo/txn"
-	"gopkg.in/oauth2.v3"
-	"gopkg.in/oauth2.v3/models"
 )
 
 // TokenConfig token configuration parameters

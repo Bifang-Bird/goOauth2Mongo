@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"gopkg.in/oauth2.v3/models"
+	"github.com/Bifang-Bird/goOauth2/models"
 
 	. "github.com/smartystreets/goconvey/convey"
 )
